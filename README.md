@@ -5,7 +5,7 @@
   <li>Include a title for the webpage.</li>
   <li>Change header tag to <header> & add comment.</li>
   <li>Improved stand out color for "seo" in Horiseon.</li>
-  <li>Change <h1> class to "brand" and navigation links class to "nav-links".</li>
+  <li>Change "h1" class to "brand" and navigation links class to "nav-links".</li>
   <li>Change "hero" <div> tag to <section> and added comment.</li>
   <li>Changed "content" <div> tag to <section> and class to "specialities" and added comment.</li>
   <li>For each specialty change class to "specialty" and removed redundent classes. Also added alt attribute for each image. Add comment.</li>
