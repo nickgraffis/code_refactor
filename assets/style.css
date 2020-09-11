@@ -23,7 +23,7 @@ p {
 }
 
 /* Header styling */
-.header {
+header {
     padding: 20px;
     background-color: #2a607c;
     color: #ffffff;
@@ -35,7 +35,7 @@ p {
     font-size: 48px;
 }
 
-.brand .seo {
+.brand #seo {
     color: #848484;
 }
 
