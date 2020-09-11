@@ -13,3 +13,6 @@
   <li>Changed "footer" <div> tag to <footer> and added comment.</li>
   <li>Reorganized CSS file to group styling for various sections and added comment for each section.</li>
 </ul>
+    
+## Issues of Note
+I came across a strange issue that github seemed to be changing style.css to a theme in github.pages. I first thought it could be my browser cacheing the style.css file from github, but that wasn't the issue. I then changed the file name to styles.css and it solved the issue. 
